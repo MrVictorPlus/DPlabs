@@ -1,0 +1,14 @@
+C:\Users\MVP\Desktop\DPlab8a\bin\Debug\net9.0\DPlab8a.exe
+C:\Users\MVP\Desktop\DPlab8a\bin\Debug\net9.0\DPlab8a.deps.json
+C:\Users\MVP\Desktop\DPlab8a\bin\Debug\net9.0\DPlab8a.runtimeconfig.json
+C:\Users\MVP\Desktop\DPlab8a\bin\Debug\net9.0\DPlab8a.dll
+C:\Users\MVP\Desktop\DPlab8a\bin\Debug\net9.0\DPlab8a.pdb
+C:\Users\MVP\Desktop\DPlab8a\obj\Debug\net9.0\DPlab8a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MVP\Desktop\DPlab8a\obj\Debug\net9.0\DPlab8a.AssemblyInfoInputs.cache
+C:\Users\MVP\Desktop\DPlab8a\obj\Debug\net9.0\DPlab8a.AssemblyInfo.cs
+C:\Users\MVP\Desktop\DPlab8a\obj\Debug\net9.0\DPlab8a.csproj.CoreCompileInputs.cache
+C:\Users\MVP\Desktop\DPlab8a\obj\Debug\net9.0\DPlab8a.dll
+C:\Users\MVP\Desktop\DPlab8a\obj\Debug\net9.0\refint\DPlab8a.dll
+C:\Users\MVP\Desktop\DPlab8a\obj\Debug\net9.0\DPlab8a.pdb
+C:\Users\MVP\Desktop\DPlab8a\obj\Debug\net9.0\DPlab8a.genruntimeconfig.cache
+C:\Users\MVP\Desktop\DPlab8a\obj\Debug\net9.0\ref\DPlab8a.dll
