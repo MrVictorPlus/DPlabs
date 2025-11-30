@@ -1,0 +1,15 @@
+C:\Users\MVP\Desktop\MySecondApp2\bin\Debug\net9.0\MySecondApp2.exe
+C:\Users\MVP\Desktop\MySecondApp2\bin\Debug\net9.0\MySecondApp2.deps.json
+C:\Users\MVP\Desktop\MySecondApp2\bin\Debug\net9.0\MySecondApp2.runtimeconfig.json
+C:\Users\MVP\Desktop\MySecondApp2\bin\Debug\net9.0\MySecondApp2.dll
+C:\Users\MVP\Desktop\MySecondApp2\bin\Debug\net9.0\MySecondApp2.pdb
+C:\Users\MVP\Desktop\MySecondApp2\obj\Debug\net9.0\MySecondApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MVP\Desktop\MySecondApp2\obj\Debug\net9.0\MySecondApp2.AssemblyInfoInputs.cache
+C:\Users\MVP\Desktop\MySecondApp2\obj\Debug\net9.0\MySecondApp2.AssemblyInfo.cs
+C:\Users\MVP\Desktop\MySecondApp2\obj\Debug\net9.0\MySecondApp2.csproj.CoreCompileInputs.cache
+C:\Users\MVP\Desktop\MySecondApp2\obj\Debug\net9.0\MySecondApp2.dll
+C:\Users\MVP\Desktop\MySecondApp2\obj\Debug\net9.0\refint\MySecondApp2.dll
+C:\Users\MVP\Desktop\MySecondApp2\obj\Debug\net9.0\MySecondApp2.pdb
+C:\Users\MVP\Desktop\MySecondApp2\obj\Debug\net9.0\MySecondApp2.genruntimeconfig.cache
+C:\Users\MVP\Desktop\MySecondApp2\obj\Debug\net9.0\ref\MySecondApp2.dll
+C:\Users\MVP\Desktop\MySecondApp2\obj\Debug\net9.0\MySecondApp2.sourcelink.json
